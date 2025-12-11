@@ -2,7 +2,7 @@
 
 **Finally, a photo converter that respects your privacy and your sanity.😊**
 
-[🌐 Open Website](https://share.streamlit.io/GauravPatil04HEIC_to_JPEG_PNG)
+[🌐 Open Website](https://gauravpatil04-heic-to-jpeg-png-app-weys7i.streamlit.app/)
 
 
 -----
